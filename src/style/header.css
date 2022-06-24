@@ -1,3 +1,11 @@
-.test {
-  @apply text-red-500 text-center;
+header {
+  @apply bg-sky-900;
+}
+
+nav {
+  @apply container;
+}
+
+header ul {
+  @apply flex justify-center items-center text-xl gap-x-5 h-20;
 }
