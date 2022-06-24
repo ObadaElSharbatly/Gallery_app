@@ -1,0 +1,28 @@
+@import "./header.css";
+@import "./body.css";
+@import "./footer.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  min-height: 100vh;
+  @apply bg-sky-800 flex flex-col justify-between;
+}
+
+header,
+main,
+footer {
+  @apply text-4xl flex justify-center items-center;
+}
+
+/* for testing main sections */
+/* 
+body > * > * {
+  @apply container;
+}
+
+body > * {
+  @apply border;
+} */
