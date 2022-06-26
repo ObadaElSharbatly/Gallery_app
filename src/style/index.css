@@ -12,17 +12,6 @@ body {
 }
 
 header,
-main,
-footer {
+main {
   @apply text-4xl flex justify-center items-center;
 }
-
-/* for testing main sections */
-/* 
-body > * > * {
-  @apply container;
-}
-
-body > * {
-  @apply border;
-} */
