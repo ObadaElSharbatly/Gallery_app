@@ -1,3 +1,11 @@
-header {
-  @apply text-white;
+.the-header {
+  @apply shadow-inner shadow-lg bg-slate-800 text-white;
+}
+
+nav {
+  @apply container;
+}
+
+header ul {
+  @apply flex justify-center items-center text-xl gap-x-5 h-20;
 }
