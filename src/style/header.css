@@ -1,5 +1,5 @@
-header {
-  @apply bg-sky-900;
+.the-header {
+  @apply shadow-inner shadow-lg bg-slate-800 text-white;
 }
 
 nav {
