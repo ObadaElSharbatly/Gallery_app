@@ -1,3 +1,9 @@
 .test-funny {
   color: gray;
+  font-weight: 800;
+}
+
+.right-side {
+  display: flex;
+  justify-content: center;
 }
