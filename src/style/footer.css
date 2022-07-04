@@ -1,1 +1,9 @@
+.test-footer {
+  border-radius: 20px;
+  font-weight: 800;
+}
 
+.footer-second-part {
+  padding: 20px;
+  margin: 0 auto;
+}
