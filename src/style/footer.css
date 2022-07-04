@@ -1,4 +1,6 @@
 .test-footer {
   font-family: "Courier New", Courier, monospace;
   color: red;
+  border-radius: 20px;
+  display: flex;
 }
