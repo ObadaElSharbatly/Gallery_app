@@ -1,9 +1,11 @@
 .test-footer {
+  color: salmon;
   font-size: 20px;
   font-family: "Courier New", Courier, monospace;
 }
 
 .footer-container {
-  display: block;
+  display: flex;
+  flex-direction: column;
   border: 2px solid black;
 }
