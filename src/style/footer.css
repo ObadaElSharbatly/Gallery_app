@@ -1,0 +1,9 @@
+.test-footer {
+  border: 2px solid black;
+  font-size: larger;
+}
+
+.footer-container {
+  display: flex;
+  flex-direction: column;
+}
