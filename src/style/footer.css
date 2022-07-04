@@ -1,1 +1,9 @@
+.test-footer {
+  font-family: "Courier New", Courier, monospace;
+  color: red;
+}
 
+.footer-container {
+  display: flex;
+  flex-direction: column;
+}
